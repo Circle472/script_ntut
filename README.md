@@ -1,6 +1,6 @@
 # script_ntut
 
-### 製作包含 CP950 所有字符稿紙
+### 製作包含 CP950 所有字元稿紙
 
 ![GITHUB](https://github.com/Circle472/script_ntut/raw/main/scripts_pku_file.jpg)
 
